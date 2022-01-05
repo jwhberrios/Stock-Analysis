@@ -19,7 +19,7 @@ Refactored script run time = 0.09985352 seconds compared to the original script 
 ##### (Figure D) 2018 stock analysis run time from refactored VBA script
 ![VBA_Challenge_2018](VBA_Challenge_2018.png)
 
-Refactored script run time = 0.07910156 seconds compared to the original script = 0.6523438  seconds. The refactored code ran the stock analysis__85%__ quicker than the original code!
+Refactored script run time = 0.07910156 seconds compared to the original script = 0.6523438  seconds. The refactored code ran the stock analysis __85%__ quicker than the original code!
 
 With the refactored code clearly running more efficiently, the following is the full refactored script:
 
