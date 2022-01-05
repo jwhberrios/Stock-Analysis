@@ -1,5 +1,5 @@
 # stock-analysis
-######Green energy company stock analysis using VBA
+Green energy company stock analysis using VBA
 
 ## Overview of Project
 The purpose of this analysis was to refactor a VBA code that was used to analyze Green Energy Stocks in years 2017 and 2018 to determine which ones were best to invest in. After refactoring the code, performance of stock analysis was assessed based on completion time.
