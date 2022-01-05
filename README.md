@@ -154,7 +154,7 @@ With the refactored code clearly running more efficiently, the following is the 
     endTime = Timer
     MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
 
-End Sub
+    End Sub
 
 ## Summary
 ### Advantages
