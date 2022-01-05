@@ -5,11 +5,11 @@ Green energy company stock analysis using VBA
 The purpose of this analysis was to refactor a VBA code that was used to analyze Green Energy Stocks in years 2017 and 2018 to determine which ones were best to invest in. After refactoring the code, performance of stock analysis was assessed based on completion time and stock performance for 2017 and 2018 were also assessed.
 
 ## Results
-Refactoring the original VBA script led to significantly quicker stock analysis performance run time for years 2017 & 2018 compared to the original VBA script as intended. The original analysis running times for 2017 and 2018 stocks are presented in the images below:
+Refactoring the original VBA script led to significantly quicker stock analysis performance run time for years 2017 (Figure.A) & 2018 (Figure.B) compared to the original VBA script as intended. The original analysis running times for 2017 and 2018 stocks are presented in the images below:
 
-#### 2017 stock analysis run time for original VBA script
+###### **(Figure. A) 2017 stock analysis run time for original VBA script**
 ![Original_VBA_Challenge_2017](Original_VBA_Challenge_2017.png)
-#### 2018 stock analysis run time for original VBA script
+###### **(Figure. B) 2018 stock analysis run time for original VBA script**
 ![Original_VBA_Challenge_2018](Original_VBA_Challenge_2018.png)
 
 ## Summary
