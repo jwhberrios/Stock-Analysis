@@ -24,8 +24,9 @@ Refactored script run time = 0.07910156 seconds compared to the original script 
 With the refactored code clearly running more efficiently, the following is the full refactored script:
 
 
-Sub AllStocksAnalysisRefactored()
 
+    Sub AllStocksAnalysisRefactored()
+    
     Dim startTime As Single
     Dim endTime  As Single
 
