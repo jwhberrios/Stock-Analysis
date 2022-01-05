@@ -5,13 +5,17 @@ Green energy company stock analysis using VBA
 The purpose of this analysis was to refactor a VBA code that was used to analyze Green Energy Stocks in years 2017 and 2018 to determine which ones were best to invest in. After refactoring the code, performance of stock analysis was assessed based on completion time and stock performance for 2017 and 2018 were also assessed.
 
 ## Results
-Refactoring the original VBA script led to significantly quicker stock analysis performance run time for years 2017 (Figure.A) & 2018 (Figure.B) compared to the original VBA script as intended. The original analysis running times for 2017 and 2018 stocks are presented in the images below:
+Refactoring the original VBA script led to significantly quicker stock analysis performance run time for years 2017 (Figure C) & 2018 (Figure D) compared to the original VBA script as intended. The original analysis running times for 2017 and 2018 stocks are presented in the images below:
 
-###### **(Figure. A) 2017 stock analysis run time for original VBA script**
+###### __(Figure A) 2017 stock analysis run time from original VBA script__
 ![Original_VBA_Challenge_2017](Original_VBA_Challenge_2017.png)
-###### **(Figure. B) 2018 stock analysis run time for original VBA script**
-![Original_VBA_Challenge_2018](Original_VBA_Challenge_2018.png)
+##### __(Figure B) 2017 stock analysis run time from refactored VBA script__
+![VBA_Challenge_2017](
 
+###### __(Figure C) 2018 stock analysis run time from original VBA script__
+![Original_VBA_Challenge_2018](Original_VBA_Challenge_2018.png)
+##### __(Figure D) 2018 stock analysis run time from refactored VBA script__
+![VBA_Challenge_2018](
 ## Summary
 ### Advantages
 Somes advantages to refactoring code include cleaning up the code such as removing any redundancies. This is better for reuse and to be updated by others over time. Consequently, the liklihood of encountering errors will be reduced. Refactoring also makes the code easier to read and maintain. Lastly, as demonstrated in this assignment, the analysis running time on this refactored code script was quicker because the data was only looped one time to gather the needed stock performance information.
