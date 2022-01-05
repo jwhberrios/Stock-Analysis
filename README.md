@@ -31,6 +31,8 @@ Refactored script run time = 0.09985352 seconds compared to the original script 
 
 Refactored script run time = 0.07910156 seconds compared to the original script = 0.6523438  seconds. The refactored code ran the stock analysis __85%__ quicker than the original code!
 
+### Refactored Code
+
 With the refactored code clearly running more efficiently, the full refactored script can be viewed below:
 
 
