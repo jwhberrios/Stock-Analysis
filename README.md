@@ -7,6 +7,7 @@ The purpose of this analysis was to refactor a VBA code that was used to analyze
 
 ### Stock Performance
 As presented in the images below, year 2017 yielded better stock performance compared to year 2018 based on its "Return" value:
+
 ##### (Figure A) 2017 stock performance
 ![Stock_Performance_2017](Stock performance_2017.png)
 
