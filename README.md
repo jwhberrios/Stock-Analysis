@@ -11,7 +11,7 @@ As presented in the images below, year 2017 yielded better stock performance com
 ![Stock_Performance_2017](Stock performance_2017.png)
 
 ##### (Figure B) 2018 stock performance
-![Stock_Performance_2018]()
+![Stock_Performance_2018](Stock_performance_2018.png)
 
 ### Execution times
 Refactoring the original VBA script led to significantly quicker stock analysis performance run times for years 2017 & 2018 compared to the original VBA script, as intended. A comparison of analysis running times between the original and refactored scripts for 2017 and 2018 stocks are presented in the images below:
