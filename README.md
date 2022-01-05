@@ -7,17 +7,19 @@ The purpose of this analysis was to refactor a VBA code that was used to analyze
 ## Results
 Refactoring the original VBA script led to significantly quicker stock analysis performance run times for years 2017 & 2018 compared to the original VBA script, as intended. A comparison of analysis running times between the original and refactored scripts for 2017 and 2018 stocks are presented in the images below:
 
-##### __(Figure A) 2017 stock analysis run time from original VBA script__
+##### (Figure A) 2017 stock analysis run time from original VBA script
 ![Original_VBA_Challenge_2017](Original_VBA_Challenge_2017.png)
-#### __(Figure B) 2017 stock analysis run time from refactored VBA script__
+##### (Figure B) 2017 stock analysis run time from refactored VBA script
 ![VBA_Challenge_2017](VBA_Challenge_2017.png)
 
-Refactored script run time = 0.09985352 seconds compared to 0.6640625 seconds for the original script. This shows a __85%__ quicker run time for the refactored code!
+Refactored script run time = 0.09985352 seconds compared to the original script = 0.6640625 seconds. The refactored code ran the stock analysis __85%__ quicker than the original script!
 
-##### __(Figure C) 2018 stock analysis run time from original VBA script__
+##### (Figure C) 2018 stock analysis run time from original VBA script
 ![Original_VBA_Challenge_2018](Original_VBA_Challenge_2018.png)
-#### __(Figure D) 2018 stock analysis run time from refactored VBA script__
+##### (Figure D) 2018 stock analysis run time from refactored VBA script
 ![VBA_Challenge_2018](VBA_Challenge_2018.png)
+
+Refactored script run time = 0.07910156 seconds compared to the original script = 0.6523438  seconds. The refactored code ran the stock analysis__85%__ quicker than the original code!
 
 ## Summary
 ### Advantages
