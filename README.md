@@ -10,7 +10,7 @@ Refactoring the original VBA script led to significantly quicker stock analysis 
 ###### __(Figure A) 2017 stock analysis run time from original VBA script__
 ![Original_VBA_Challenge_2017](Original_VBA_Challenge_2017.png)
 ##### __(Figure B) 2017 stock analysis run time from refactored VBA script__
-![VBA_Challenge_2017](
+![VBA_Challenge_2017](VBA_Challenge_2017.png)
 
 ###### __(Figure C) 2018 stock analysis run time from original VBA script__
 ![Original_VBA_Challenge_2018](Original_VBA_Challenge_2018.png)
