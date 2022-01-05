@@ -7,7 +7,10 @@ The purpose of this analysis was to refactor a VBA code that was used to analyze
 ## Results
 Refactoring the original VBA script led to significantly quicker stock analysis performance run time for years 2017 & 2018 compared to the original VBA script as intended. The original analysis running times for 2017 and 2018 stocks are presented in the images below:
 
-
+#### 2017 stock analysis run time for original VBA script
+![Original_VBA_Challenge_2017](Original_VBA_Challenge_2017.png)
+#### 2018 stock analysis run time for original VBA script
+![Original_VBA_Challenge_2018](
 
 ## Summary
 ### Advantages
