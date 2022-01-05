@@ -15,7 +15,8 @@ Refactoring the original VBA script led to significantly quicker stock analysis 
 ###### __(Figure C) 2018 stock analysis run time from original VBA script__
 ![Original_VBA_Challenge_2018](Original_VBA_Challenge_2018.png)
 ##### __(Figure D) 2018 stock analysis run time from refactored VBA script__
-![VBA_Challenge_2018](
+![VBA_Challenge_2018](VBA_Challenge_2018.png)
+
 ## Summary
 ### Advantages
 Somes advantages to refactoring code include cleaning up the code such as removing any redundancies. This is better for reuse and to be updated by others over time. Consequently, the liklihood of encountering errors will be reduced. Refactoring also makes the code easier to read and maintain. Lastly, as demonstrated in this assignment, the analysis running time on this refactored code script was quicker because the data was only looped one time to gather the needed stock performance information.
