@@ -6,12 +6,12 @@ The purpose of this analysis was to refactor a VBA code that was used to analyze
 ## Results
 
 ### Stock Performance
-As presented in the images below, year 2017 yielded better stock performance compared to year 2018:
+As presented in the images below, year 2017 yielded better stock performance compared to year 2018 based on its "Return" value:
 ##### (Figure A) 2017 stock performance
-![Stock_Performance_2017](Original_VBA_Challenge_2018.png)
+![Stock_Performance_2017](Stock performance_2017.png)
 
 ##### (Figure B) 2018 stock performance
-![Stock_Performance_2018](Original_VBA_Challenge_2018.png)
+![Stock_Performance_2018]()
 
 ### Execution times
 Refactoring the original VBA script led to significantly quicker stock analysis performance run times for years 2017 & 2018 compared to the original VBA script, as intended. A comparison of analysis running times between the original and refactored scripts for 2017 and 2018 stocks are presented in the images below:
